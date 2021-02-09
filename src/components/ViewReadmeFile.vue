@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <p v-html="data" style="place-self:center;width:60%;"></p>
+    <p v-html="data" style="place-self:center;width:60%;white-space:pre-wrap"></p>
   </div>
 </template>
 
